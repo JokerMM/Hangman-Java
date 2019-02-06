@@ -1,4 +1,4 @@
-# Hangman-in-Java
+# Hangman-Java
 Hangman game using Java GUI
 
 This is my first project in Java 
