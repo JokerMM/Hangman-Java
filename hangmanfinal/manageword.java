@@ -22,7 +22,9 @@ public class manageword {
 
            newgame();
     }
-    
+    public String getWord(){
+        return this.newword;
+    }
     @Override
     public String toString()
     {
